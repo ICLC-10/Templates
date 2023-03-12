@@ -10,10 +10,12 @@ We recommend that you first install the [ICLC-10 Zotero Style](https://github.co
 ## Changes
 
 - v1.0.0 - 2023-03-12
-  - word version:
+  - Word version:
     - "insert/paste picture as" default option changed to "above/below"
     - vertical glossing table margins adjusted
     - Zotero integration fixed
+  - LibreOffice version:
+    - fixed indentation for example style
 - v0.0.3 - 2023-03-11
   - first published version
 
