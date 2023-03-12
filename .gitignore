@@ -1,0 +1,8 @@
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# LibreOffice locks
+.~lock.*#
+
