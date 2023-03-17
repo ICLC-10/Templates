@@ -2,7 +2,7 @@
 
 # Layout and style templates
 
-Please use these Word and LibreOffice templates to revise your accepted ICLC-10 abstract. You can download the latest released templates [here](https://github.com/ICLC-10/Templates/releases/latest/download/).
+Please use these Word and LibreOffice templates to revise your accepted ICLC-10 abstract. You can download the latest released templates [here](https://github.com/ICLC-10/Templates/releases/latest/).
 
 We recommend that you first install the [ICLC-10 Zotero Style](https://github.com/ICLC-10/Zotero/) and write directly into the document templates and replace the model text.
 
