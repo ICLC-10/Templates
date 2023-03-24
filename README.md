@@ -9,7 +9,7 @@ We recommend that you first install the [ICLC-10 Zotero Style](https://github.co
 
 ## Changes
 
-- unpublished
+- v1.0.1 - 2023-03-24
   - automatic hyphenation turned off in title, author and subtitle
 - v1.0.0 - 2023-03-12
   - apply example style to glossed example first line
